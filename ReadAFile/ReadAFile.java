@@ -1,6 +1,6 @@
 /*Require user to choose a name list from name.txt or other-name.txt
 then check whether names entered by user are on the guest list
-name.txt includes {ada, arto, leena, test}
+name.txt includes {ada, arto, leena, test, , skip}
 other-name.txt includes {leo, jarmo, alicia}
 */
 import java.util.*;
@@ -18,7 +18,7 @@ public class ReadAFile {
 			while (reader.hasNextLine()) {
 				nameList.add(reader.nextLine());
 			}
-					
+				
 			System.out.println("Enter name, an empty line quits.");
 			while (true) {
 				String z = scanner.nextLine();
