@@ -1,0 +1,12 @@
+White T-shirt L size,Clothing,2000
+Blue Jeans M size,Clothing,3000
+Summer Dress S size,Clothing,1250
+Bluetooth Headset,Electronics,5000
+Mechanic Keyboard,Electronics,8000
+Apple Juice 1L pack,Beverages,120
+Melon Soda,Beverages,150
+Beer 6 cans pack,Beverages,1200
+Red Wine,Beverages,1400
+Peach Jelly,Foods,200
+Rice 10kg,Foods,2300
+Frozen Pizza,Foods,250
