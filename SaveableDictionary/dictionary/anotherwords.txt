@@ -1,0 +1,3 @@
+one:いち
+person:ひと
+rain:あめ

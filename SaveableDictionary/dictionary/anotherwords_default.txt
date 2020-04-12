@@ -1,0 +1,4 @@
+// anotherwords.txt will be modified after running the program. This is the original list
+one:いち
+person:ひと
+rain:あめ
